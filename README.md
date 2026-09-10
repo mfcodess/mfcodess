@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/maxim-fedoseenko-45892b225/" style="margin-right: 10px;">
         <img src="1.png" width="115" height="25" alt="Instagram Image">
     </a>
-    <a href="https://www.instagram.com/mfcodes/" style="margin-right: 10px;">
+    <a href="https://www.instagram.com/maxfeds/" style="margin-right: 10px;">
         <img src="2.png" width="115" height="25" alt="Instagram Image">
     </a>
     <a href="">
