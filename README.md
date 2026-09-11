@@ -1,11 +1,11 @@
 
 
-<h2>Hi there 👽</h2>
-<p>I'm Maxim Fedoseenko, an iOS Developer from Ukraine.</p>
+<h2>Привіт 👽</h2>
+<p>Я Макс, iOS-розробник з України.</p>
 
 <ul>
-    <li>Building apps for fun</li>
-    <li>Sharing my learnings on socials</li>
+    <li>Створюю застосунки для задоволення.</li>
+    <li>Ділюся своїми знаннями та досвідом у соцмережах.</li>
 </ul>
 
 
